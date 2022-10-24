@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oc22O5wUYr6Vfgoc_vfFwnkBAYvQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'i8_EhpIazsRrQUV1ibnQ6EWLcU_AOPY1xHXmpoq39W0',
+      useTemplateId: 'p4Tz1prNH7iIyhL5xMbwkTh0kmVOhwBArkCeHw33p-M',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-11',
       festivals: [
@@ -39,11 +39,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2018-10-25' },
-        { keyword: 'comprehensive_horoscope' },
-        { keyword: 'love_horoscope' },
-        { keyword: 'career_horoscope' },
-        { keyword: 'wealth_horoscope' },
-        { keyword: 'healthy_horoscope.DATA' },
       ],
     },
   ],
