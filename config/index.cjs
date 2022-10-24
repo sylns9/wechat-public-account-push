@@ -39,12 +39,16 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2018-10-25' },
-        { keyword: 'encourage_oneself', contents: '我爱你，从这里一直到月亮，再... ...绕回来。' },
-        { keyword: 'encourage_oneself', contents: 'I Love you, to the moon, and back .' },
       ],
     },
   ],
 
+  SLOT_LIST: [
+    { keyword: 'encourage_oneself', contents: '我爱你，从这里一直到月亮，再... ...绕回来。' },
+    { keyword: 'encourage_oneself', contents: 'I Love you, to the moon, and back .' },
+      ],
+    },
+  ],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'paqzu1iNtPVRFNb0yivxfPUzoAcUgprBq2nghCJ7YWg',
